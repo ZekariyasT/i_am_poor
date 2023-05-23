@@ -1,2 +1,16 @@
 # i_am_poor
-I Am Poor" is a Flutter application that I developed with the intention of reaching a wide range of impoverished individuals and providing them with essential resources such as healthcare and food. This application serves as a platform to address the pressing needs of disadvantaged communities and facilitate access to critical support.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
